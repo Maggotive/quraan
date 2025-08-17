@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="13 line quran with beautiful color coded tajweed rules pdf.epub" source="derivative">
+    <original>13 line quran with beautiful color coded tajweed rules pdf_hocr.html</original>
+    <mtime>1699597902</mtime>
+    <size>708306</size>
+    <md5>41e17eb41e9a8b16c289632324e5ef79</md5>
+    <crc32>df554bfe</crc32>
+    <sha1>66098d40195c2d48abf014270100723a8d9d23ec</sha1>
+    <format>EPUB</format>
+  </file>
+  <file name="13 line quran with beautiful color coded tajweed rules pdf.pdf" source="original">
+    <mtime>1616136307</mtime>
+    <size>84204073</size>
+    <md5>64d2dcc1df3c3b12432169b85220ef86</md5>
+    <crc32>9e0fb273</crc32>
+    <sha1>f6ba724d942d3cd8d6e612a9e154f002248438b8</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="13 line quran with beautiful color coded tajweed rules pdf_chocr.html.gz" source="derivative">
+    <ocr>tesseract 5.0.0-alpha-20201231-10-g1236</ocr>
+    <ocr_parameters>-l ara</ocr_parameters>
+    <ocr_module_version>0.0.12</ocr_module_version>
+    <ocr_detected_script>Arabic</ocr_detected_script>
+    <ocr_detected_script_conf>1.0000</ocr_detected_script_conf>
+    <ocr_detected_lang>ar</ocr_detected_lang>
+    <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+    <format>chOCR</format>
+    <original>13 line quran with beautiful color coded tajweed rules pdf_jp2.zip</original>
+    <mtime>1616158467</mtime>
+    <size>6148971</size>
+    <md5>43684caf25339fad688eee445c63b77c</md5>
+    <crc32>f0d9ac08</crc32>
+    <sha1>f74e3e9bf99c8729579fa017b24d2d22ab7a8442</sha1>
+  </file>
+  <file name="13 line quran with beautiful color coded tajweed rules pdf_daisy.zip" source="derivative">
+    <original>13 line quran with beautiful color coded tajweed rules pdf_hocr.html</original>
+    <mtime>1725009673</mtime>
+    <size>419224</size>
+    <md5>3f6633998de6bd827a27086765cc90a7</md5>
+    <crc32>063b7e9a</crc32>
+    <sha1>a1c0c6ee096225cc260e8bc4cafe229b4142b1c1</sha1>
+    <format>Daisy</format>
+    <filecount>9</filecount>
+  </file>
+  <file name="13 line quran with beautiful color coded tajweed rules pdf_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>13 line quran with beautiful color coded tajweed rules pdf_djvu.xml</original>
+    <mtime>1616158633</mtime>
+    <size>611074</size>
+    <md5>cda50c3c319eadf3bf83803f9f0d3523</md5>
+    <crc32>627afbbb</crc32>
+    <sha1>066600e392aa279cfe6e34227f8262311f59f39c</sha1>
+  </file>
+  <file name="13 line quran with beautiful color coded tajweed rules pdf_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>13 line quran with beautiful color coded tajweed rules pdf_hocr.html</original>
+    <mtime>1616158573</mtime>
+    <size>7437188</size>
+    <md5>b3c5e35355f2c3400a92e0f3783e6367</md5>
+    <crc32>0deb7ff4</crc32>
+    <sha1>a7b2c16a33cfc9103bf9b0a0f9ae79a1d450f5ca</sha1>
+  </file>
+  <file name="13 line quran with beautiful color coded tajweed rules pdf_hocr.html" source="derivative">
+    <hocr_char_to_word_module_version>1.0.0</hocr_char_to_word_module_version>
+    <hocr_char_to_word_hocr_version>1.1.2</hocr_char_to_word_hocr_version>
+    <ocr_parameters>-l ara</ocr_parameters>
+    <ocr_module_version>0.0.12</ocr_module_version>
+    <ocr_detected_script>Arabic</ocr_detected_script>
+    <ocr_detected_script_conf>1.0000</ocr_detected_script_conf>
+    <ocr_detected_lang>ar</ocr_detected_lang>
+    <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+    <format>hOCR</format>
+    <original>13 line quran with beautiful color coded tajweed rules pdf_chocr.html.gz</original>
+    <mtime>1616158534</mtime>
+    <size>14089697</size>
+    <md5>a7aa92a9811d70c4efed415936290f42</md5>
+    <crc32>68a1d78f</crc32>
+    <sha1>1d09a169265a59098f62d15b0102d716eeb0162b</sha1>
+  </file>
+  <file name="13 line quran with beautiful color coded tajweed rules pdf_hocr_pageindex.json.gz" source="derivative">
+    <hocr_pageindex_module_version>1.0.0</hocr_pageindex_module_version>
+    <hocr_pageindex_hocr_version>1.1.0</hocr_pageindex_hocr_version>
+    <format>OCR Page Index</format>
+    <original>13 line quran with beautiful color coded tajweed rules pdf_hocr.html</original>
+    <mtime>1616158593</mtime>
+    <size>9908</size>
+    <md5>74d1e70422dad090c7dac089c3ee5488</md5>
+    <crc32>b04f36d0</crc32>
+    <sha1>fb6afb880fd04693eedb8d678ef38f084e42be0f</sha1>
+  </file>
+  <file name="13 line quran with beautiful color coded tajweed rules pdf_hocr_searchtext.txt.gz" source="derivative">
+    <hocr_fts_text_module_version>1.0.0</hocr_fts_text_module_version>
+    <hocr_fts_text_hocr_version>1.1.0</hocr_fts_text_hocr_version>
+    <word_conf_0_10>15256</word_conf_0_10>
+    <word_conf_11_20>7795</word_conf_11_20>
+    <word_conf_21_30>9981</word_conf_21_30>
+    <word_conf_31_40>11163</word_conf_31_40>
+    <word_conf_41_50>10436</word_conf_41_50>
+    <word_conf_51_60>8207</word_conf_51_60>
+    <word_conf_61_70>5738</word_conf_61_70>
+    <word_conf_71_80>3952</word_conf_71_80>
+    <word_conf_81_90>3061</word_conf_81_90>
+    <word_conf_91_100>3174</word_conf_91_100>
+    <format>OCR Search Text</format>
+    <original>13 line quran with beautiful color coded tajweed rules pdf_hocr.html</original>
+    <mtime>1616158619</mtime>
+    <size>232623</size>
+    <md5>7573da07c8834a23b3d2bfdad85f9387</md5>
+    <crc32>33b9a25e</crc32>
+    <sha1>cc3eb8f6e98456b88e64eda6da96380e80a8dd5a</sha1>
+  </file>
+  <file name="13 line quran with beautiful color coded tajweed rules pdf_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>13 line quran with beautiful color coded tajweed rules pdf.pdf</original>
+    <mtime>1616144341</mtime>
+    <size>703253355</size>
+    <md5>5ba76da816a473c0605432ca1e8f7c08</md5>
+    <crc32>0c808c8c</crc32>
+    <sha1>cd354eba830dbd8b15549eca868ef9d1f5f74eb4</sha1>
+    <filecount>851</filecount>
+  </file>
+  <file name="13 line quran with beautiful color coded tajweed rules pdf_page_numbers.json" source="derivative">
+    <format>Page Numbers JSON</format>
+    <original>13 line quran with beautiful color coded tajweed rules pdf_djvu.xml</original>
+    <mtime>1616159394</mtime>
+    <size>164678</size>
+    <md5>b15ddef080a48462cc2f9fdd0671adac</md5>
+    <crc32>467c6555</crc32>
+    <sha1>306e8cbc32dbf578b1aed6d1eaba8514ba2a61e9</sha1>
+  </file>
+  <file name="13 line quran with beautiful color coded tajweed rules pdf_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>13 line quran with beautiful color coded tajweed rules pdf_djvu.xml</original>
+    <mtime>1616159395</mtime>
+    <size>296285</size>
+    <md5>28dfed5b51831df2ec81673a73a80377</md5>
+    <crc32>232a77b3</crc32>
+    <sha1>d8ce958c69b0af1834aa7a873179847a47dd8e80</sha1>
+  </file>
+  <file name="13 line quran with beautiful color coded tajweed rules pdf_text.pdf" source="derivative">
+    <pdf_module_version>0.0.10</pdf_module_version>
+    <format>Additional Text PDF</format>
+    <original>13 line quran with beautiful color coded tajweed rules pdf_page_numbers.json</original>
+    <mtime>1616212759</mtime>
+    <size>101860110</size>
+    <md5>91b51caad3b7fa08d162880a6c1af3af</md5>
+    <crc32>ed63dc9b</crc32>
+    <sha1>6ab01a6bd7f0c887536eda3aa6b0af52ac300038</sha1>
+  </file>
+  <file name="13-line-quran-with-beautiful-color-coded-tajwid-rules-pdf_archive.torrent" source="metadata">
+    <btih>f2a1759fbff0d6e96ffc5295ef50c733bfd45b80</btih>
+    <mtime>1728011646</mtime>
+    <size>40050</size>
+    <md5>9ef18d2bf8e42420b3fcb6954e89ad74</md5>
+    <crc32>0b703ef7</crc32>
+    <sha1>22e71040b64007faaf6ca5187e499161f3aba534</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="13-line-quran-with-beautiful-color-coded-tajwid-rules-pdf_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>96ed2149244a21ad3829d07bf1eb449a</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="13-line-quran-with-beautiful-color-coded-tajwid-rules-pdf_meta.sqlite" source="original">
+    <mtime>1616136318</mtime>
+    <size>11264</size>
+    <md5>af5a35736d61e5a84227d82e5760dc2c</md5>
+    <crc32>24041517</crc32>
+    <sha1>40f7196cff3df8dbcc9c411569b871d33c6ed91f</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="13-line-quran-with-beautiful-color-coded-tajwid-rules-pdf_meta.xml" source="original">
+    <mtime>1749750984</mtime>
+    <size>3953</size>
+    <format>Metadata</format>
+    <md5>dd4dd45b1d0f986c0520ea47e1f24488</md5>
+    <crc32>242324c7</crc32>
+    <sha1>021ef3aeb04b0ce5889b8cca5820b5ac4d09ca44</sha1>
+  </file>
+  <file name="13-line-quran-with-beautiful-color-coded-tajwid-rules-pdf_reviews.xml" source="original">
+    <mtime>1728011635</mtime>
+    <size>1033</size>
+    <md5>e71ed5f3cbda5c68b2bf04e73b1f62b1</md5>
+    <crc32>d2204221</crc32>
+    <sha1>3d019bfaa214d8cf3713e9f213bf2e953ac9880a</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1677094008</mtime>
+    <size>18657</size>
+    <md5>45d74dd024189e84c52a90fbf28314ea</md5>
+    <crc32>b8651484</crc32>
+    <sha1>3a6fe542549a5447ab06d49dc769cd8d7113a9bb</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>
